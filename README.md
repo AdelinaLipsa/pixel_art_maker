@@ -15,7 +15,7 @@ Visit this link to see the app demo: [PIXEL ART MAKER](https://AdelinaLipsa.gith
 * 32x32 
 - [x] Download option (JPG / PNG / GIF)
 - [x] Paint bucket / fill tool
-- [x] Fill in neighboring pixels whose color value corresponds to the pixels you click on
+* Fill in neighboring pixels whose color value corresponds to the pixels you click on
 
 ## Frameworks
 
