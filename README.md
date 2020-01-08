@@ -9,13 +9,13 @@ Visit this link to see the app demo: [PIXEL ART MAKER](https://AdelinaLipsa.gith
 - [x] Base grid 8x8 rendering
 - [x] Possibility of choosing colors from a palette
 - [x] Grid size can be chosen from:
-* 8x8 
-* 12x12 
-* 16x16 
-* 32x32 
+    * 8x8 
+    * 12x12 
+    * 16x16 
+    * 32x32 
 - [x] Download option (JPG / PNG / GIF)
 - [x] Paint bucket / fill tool
-* Fill in neighboring pixels whose color value corresponds to the pixels you click on
+    * Fill in neighboring pixels whose color value corresponds to the pixels you click on
 
 ## Frameworks
 
@@ -36,6 +36,6 @@ I use the following 3rd party libraries in my project:
 
 | Q | A |
 | --- | --- |
-| Why did you choose this technology (s) / language (s) |  |
+| Why did you choose this technology (s) / language (s) | I've started my journey in Front End with Javascript and at the moment is the only language I've worked with |
 | How confident are you in dealing with the selected language (s) / technology (s) |  |
-|Why did you choose a particular framework, for example | |
+| Why did you choose a particular framework, for example | I chose Jquery for this project for its readability and simplicity |
