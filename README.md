@@ -2,7 +2,7 @@
 
 ## Page
  
-[Pixel art maker](https://AdelinaLipsa.github.io/pixel_art_maker/index.html) 
+Visit this link: [PIXEL ART MAKER](https://AdelinaLipsa.github.io/pixel_art_maker/index.html) 
 
 ## Frameworks
 
