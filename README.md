@@ -37,5 +37,5 @@ I use the following 3rd party libraries in my project:
 | Q | A |
 | --- | --- |
 | Why did you choose this technology (s) / language (s) | I started my journey in Front End with Javascript and at the moment is the only language I have worked with. I believe that JS will keep its place in top tier programming languages as browsers are becoming more and more complex. |
-| How confident are you in dealing with the selected language (s) / technology (s) |  |
+| How confident are you in dealing with the selected language (s) / technology (s) | Given the fact that it has been the only language I worked with, I kept playing with it until it was fun for me to write something new, a new app or a new website.  |
 | Why did you choose a particular framework | I chose Jquery for this project for its readability and simplicity |
